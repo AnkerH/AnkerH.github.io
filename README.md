@@ -36,7 +36,7 @@
             background-color: #333;
             color: #fff;
             text-align: center;
-            padding: 10px 0;
+            padding: 10px 10px;
             position: fixed;
             bottom: 0;
             width: 100%;
@@ -57,7 +57,7 @@
         <p>This is a simple website created using HTML.</p>
     </section>
     <footer>
-        &copy; 2024 My Simple Website
+        2024 My Simple Website
     </footer>
 </body>
 </html>
