@@ -48,16 +48,16 @@
         <h1>Welcome to My Website</h1>
     </header>
     <nav>
-        <a href="#">Home</a>
-        <a href="#">About</a>
-        <a href="#">Contact</a>
+        <a href="#">Thing1</a>
+        <a href="#">Thing2</a>
+        <a href="#">Thing3</a>
     </nav>
     <section>
-        <h2>About Us</h2>
-        <p>This is a simple website created using HTML.</p>
+        <h2>HELLO</h2>
+        <p>This is a simple website created using HTML. This website was made to learn</p>
     </section>
     <footer>
-        2024 My Simple Website
+        20412324 My Simple Website
     </footer>
 </body>
 </html>
