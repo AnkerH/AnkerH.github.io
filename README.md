@@ -39,7 +39,6 @@
             padding: 10px 20px;
             position: fixed;
             bottom: 0;
-            width: 80%;
         }
     </style>
 </head>
